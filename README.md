@@ -43,7 +43,7 @@
 
 ## // CONTATO / JACK-IN
 
-[![Email](https://img.shields.io/badge/E--MAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
+[![Email](https://img.shields.io/badge/E--MAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marcellabeatriz112@gmail.com)
 
 ---
 
